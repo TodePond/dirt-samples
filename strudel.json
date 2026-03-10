@@ -2280,6 +2280,7 @@
     "wind/008_wind8.wav",
     "wind/009_wind9.wav"
   ],
+  "wobble": ["wobble/000_0.wav"],
   "dirt_wobble": ["wobble/000_0.wav"],
   "world": ["world/bd.wav", "world/gabbakick.wav", "world/sn.wav"],
   "xmas": ["xmas/170535__cognito-perceptu__merry-christmas.wav"],
